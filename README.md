@@ -6,6 +6,10 @@ Project 06 3D RPG
 nothing to see here
 
 ## Implementation
+none
+
+## References
+none
 
 ## Created by
 Jane Negus
